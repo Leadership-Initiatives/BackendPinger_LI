@@ -19,7 +19,7 @@ headers = {
 
 while True:
     # Define the endpoint URL
-    url = "https://libackend-40b431c4b11a.herokuapp.com/status"
+    url = "https://leadership-initiatives-0c372bea22f2.herokuapp.com/status"
     
     try:
         response = requests.get(url)
